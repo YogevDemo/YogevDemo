@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**YogevDemo/YogevDemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer currently learning programming and software development.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science student
+- 🌱 Currently learning: Python, Git, and GitHub
+- 💡 Interested in software development and new technologies
+- 🚀 Working on improving my programming skills every day
+
+## 📚 What I'm Learning
+
+- Python programming
+- Version control with Git
+- Using GitHub to manage projects
+- Basic software development practices
+
+## 🛠️ Technologies
+
+- Python
+- Git
+- GitHub
+- VS Code / PyCharm
+
+## 🎯 Goals
+
+- Build my first programming projects
+- Learn how to collaborate using GitHub
+- Create useful applications
+- Grow as a software developer
+
+## 📫 Connect With Me
+
+- LinkedIn: [Add your LinkedIn here]
+- Email: [Add your email here]
+
+---
+
+⭐ This GitHub profile will grow as I continue learning and building new projects.
