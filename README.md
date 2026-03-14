@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Yogev 👋
 
 I'm a beginner developer currently learning programming and software development.
 
